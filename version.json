@@ -1,5 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "3.0",
-  "downloadUrl": "https://github.com/raoxc/PrimeChatBotUpdate/releases/download/v1.0.1/Prime.ChatBot_3.0.apk"
+  "versionCode": 4,
+  "versionName": "3.1",
+  "downloadUrl": "https://example.com/your_apk_link.apk",
+  "changelog": "• Added premium high-fidelity background checker\n• Fixed minor UI stuttering\n• Faster server connectivity response"
 }
